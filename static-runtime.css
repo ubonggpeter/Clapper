@@ -1,0 +1,2 @@
+/* things that need the main site are hidden in the exported copy */
+.bm-comments, #bmAskAiToggle, #bmAskAiPanel, .bm-rw-chip, .vx-fab, #bmBmpBtn, #bmReportBtn, .lx-need, .lx-mine, #lxMake, label:has(> #lxMake), .lx-online, .lx-tray [data-lx-id="earn"], .lx-tray [data-lx-id="ask"], .lx-tray [data-lx-id="community"], .lx-tray [data-lx-id="bmp"], .lx-tray [data-lx-id="admin"], .lx-tray [data-lx-id="speed"] { display: none !important; }

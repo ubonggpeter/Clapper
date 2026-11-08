@@ -1,0 +1,31 @@
+{
+    "name": "Clapper",
+    "short_name": "Clapper",
+    "description": "Hehe Hehe hehehsh hehehhshs. Hshshsj hshehshs hehehshs. Hehehsh. Shehshhshhs. Shehshshsh. Shshshshhs. Shshshsh. Shshshshs.",
+    "start_url": "/Clapper/",
+    "scope": "/Clapper/",
+    "display": "standalone",
+    "lang": "en-NG",
+    "background_color": "#ffffff",
+    "theme_color": "#00a884",
+    "icons": [
+        {
+            "src": "/Clapper/icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/Clapper/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/Clapper/icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
